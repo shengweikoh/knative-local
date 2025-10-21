@@ -1,0 +1,1 @@
+Please refer to https://knative.dev/blog/articles/set-up-a-local-knative-environment-with-kind/#step-4-deploying-your-first-app
